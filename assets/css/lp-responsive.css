@@ -1,0 +1,691 @@
+
+@media only screen and (max-width: 1780px) {
+	.page-template-landing .lp-banner-area {
+		padding-top: 140px;
+	}
+	.banner-contact-info p {
+    	font-size: 20px;
+    	line-height:28px;
+  	}
+}
+@media only screen and (max-width: 1780px) {
+    .lp-container  {
+        max-width: 1100px;
+    }
+    .reviews-title h1 {
+        font-size: 28px;
+        line-height: 38px;
+    }
+    .banner-contact-info strong {
+        font-size: 15px;
+        padding-top: 2px;
+        padding-bottom: 7px;
+    }
+    .btn-type-title h2 {
+        font-size: 28px;
+        line-height:38px;
+        padding: 5px 10px;
+    }
+	.lp-bg-yellow-text h3 {
+		font-size:24px;
+		line-height:34px;
+		padding-top:8px;
+		padding-bottom:8px;
+	}
+    .banner-contact-info p {
+        padding-top: 12px;
+    }
+    .banner-contact-info h5 {
+        font-size: 26px;
+        line-height: 35px;
+        padding-bottom: 30px;
+    }
+    .text-area-field .form-control {
+        height: 48px;
+        padding: 5px 16px;
+    }
+
+    .text-area-field .form-control {
+       min-height: 140px !important;
+    }
+    .form-field-item .btn {
+        height: 52px;
+        font-size: 18px;
+    } 
+    .partner-wrap {
+        padding: 20px 60px;
+        gap: 44px;
+    }
+    .form-field-item .talkBtn {
+        height: 75px !important;
+        font-size: 34px !important;
+    }
+    .authorization-services .read-case-btn a {
+        height: 70px;
+        font-size: 30px;
+        margin-top: 40px;
+    }
+    .why-choose-area .talkBtn img {
+        width: 35px;
+    }
+    .authorization-services .read-case-btn img {
+        width: 35px;
+    }
+    .authorization-services .choose-list ul li strong {
+        font-weight: 700;
+    }
+
+    .services-work-area .btn-type-title h2 {
+        font-size: 16px;
+        line-height: 30px;
+    }
+    .services-work-info h5 {
+        font-size: 22px;
+        line-height: 30px;
+        padding-left: 15px;
+        margin-bottom: 8px;
+    }
+    .services-work-info .choose-list ul li {
+        font-size: 18px;
+        line-height: 26px;
+    }
+    .dote-list ul li::before {
+        width: 6px;
+        height: 6px;
+    }
+    .services-work-info .choose-list ul {
+        padding-left: 40px;
+    }
+    .choose-list.dote-list {
+        padding-bottom: 24px;
+    }
+
+    .services-work-area .form-field-item .talkBtn {
+        font-size: 25px !important;
+    }
+    .choose-list ul li {
+        font-size: 22px;
+        line-height: 32px;
+    }  
+    .lp-faq-area .btn-type-title h2 {
+        font-size: 40px;
+		line-height:50px;
+		
+    }
+    .lp-faq-area .btn-type-title h2 img {
+        width: 90px;
+    }
+
+    .scheduler-contact-item h3 {
+        font-size: 28px;
+        line-height: 40px;
+    }
+    .scheduler-contact-item span {
+        font-size: 16px;
+        line-height: 24px;
+    }
+    .scheduler-get-start {
+        padding:40px;
+    }
+    .scheduler-get-start h2 {
+        font-size: 34px;
+        line-height: 45px;
+    }
+    .s-contact-icon {
+        width: 80px;
+        min-width: 80px;
+        height: 80px;
+    }
+    .administrative-task h2 {
+        font-size: 38px;
+        line-height: 38px;
+    }
+    .services-work-info {
+        padding-right: 30px;
+    }
+    .lp-faq-area .accordion-header h6 {
+        font-size: 20px;
+        line-height: 32px;
+    }
+    .lp-faq-area .accordion-content p {
+        font-size: 16px;
+    }
+}
+@media only screen and (max-width: 1500px) {
+    .reviews-title h1 {
+        font-size: 23px;
+        line-height: 33px;
+    }
+    .reviews-title span {
+        width: 50px;
+        height: 50px;
+        min-width: 50px;
+        font-size: 24px;
+    }  
+    .btn-type-title h2 {
+        font-size: 20px;
+        line-height: 32px;
+    }  
+    .banner-contact-info p {
+        padding-top: 5px;
+        font-size: 18px;
+        line-height: 24px;
+    }
+    .banner-contact-info strong {
+        font-size: 13px;
+        padding-bottom: 4px;
+    }
+    .banner-contact-info {
+        padding-left: 20px;
+    }
+    .lp-bg-yellow-text h3 {
+        font-size: 20px;
+        line-height: 30px;
+    }
+    .choose-info-box h3 {
+        font-size: 25px;
+        line-height: 36px;
+        padding-bottom: 24px;
+    }
+    .clients-testimonials-box {
+        width: 380px;
+        min-width:380px;
+    }
+    .lp-client-text p {
+        font-size: 13px;
+        line-height: 20px;
+    }
+    .choose-list ul li {
+        font-size: 18px;
+        line-height: 22px;
+    }
+    .choose-list ul li::before {
+        width: 20px;
+        height: 19px;
+        top:1px
+    }
+    .form-field-item .talkBtn {
+        font-size: 26px !important;
+    }
+    .authorization-services .choose-info-box h2 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .dote-list ul li::before {
+        width: 6px;
+        height: 6px;
+        top:1px;
+    }
+    .lp-faq-area .btn-type-title h2 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .administrative-task h2 {
+        font-size: 30px;
+    }
+    .administrative-task .doc-icon {
+        width: 60px;
+        min-width: 60px;
+    }
+}
+
+@media only screen and (max-width:1300px){
+	.banner-contact-info p {
+		font-size: 22px;
+		line-height: 32px;
+		margin-bottom: 20px;
+	}
+}
+@media only screen and (max-width:1200px){
+    .choose-list ul li {
+        font-size: 20px;
+        line-height: 30px;
+        margin-bottom: 3px;
+    }
+    .choose-info-box {
+        padding-right: 20px;
+    }
+    .scheduler-get-start {
+        min-width: 280px;
+        width: 280px;
+    }
+    .scheduler-contact {
+        padding: 40px;
+    }
+    .scheduler-contact-item h3 {
+        font-size: 26px;
+        line-height: 36px;
+    }
+    .scheduler-get-start h2 {
+        font-size: 30px;
+        line-height: 45px;
+    }
+    .rocket-icon {
+        max-width: 70px;
+    }
+    .s-contact-icon {
+        width: 60px;
+        min-width: 60px;
+        height: 60px;
+    }
+    .consultation-bg {
+        padding: 10px;
+    }
+    .scheduler-contact-item {
+        margin-bottom: 28px;
+    }
+    .scheduler-contact-item span {
+        font-size: 16px;
+        line-height: 32px;
+    }
+    .administrative-task h2 {
+        font-size: 32px;
+        line-height: 40px;
+    }
+}
+
+@media only screen and (max-width: 1080px) {
+    .btn-type-title h2 {
+        font-size: 22px;
+        padding: 8px 10px;
+        line-height: 34px;
+    }
+    .banner-contact-info {
+        padding-left: 24px;
+    }
+    .banner-contact-info p {
+        padding-top: 16px;
+    }
+    .banner-contact-info h5 {
+        font-size: 22px;
+        line-height: 30px;
+        padding-bottom: 20px;
+        padding-top: 0px;
+    }
+    
+    .form-field-item .btn {
+        font-size:14px;
+    }
+    .reviews-title strong {
+        font-size: 18px;
+    }
+    .reviews-title span {
+        width: 40px;
+        height: 40px;
+        min-width: 40px;
+        font-size: 21px;
+
+    }
+    .reviews-title h1 {
+        font-size: 20px;
+        line-height: 24px;
+    }
+    .request-form {
+        gap:16px;
+    }
+    .partner-wrap {
+        padding: 10px 20px;
+        gap: 24px;
+    }
+    .form-field-item .talkBtn {
+        height: 56px !important;
+        font-size: 20px !important;
+    }
+    .why-choose-area  .talkBtn img {
+        width: 20px;
+    }
+    .authorization-services .choose-info-box h2 {
+        font-size: 28px;
+        text-align: center;
+        font-weight: 900;
+        line-height: 38px;
+        margin-bottom: 12px;
+    }
+    .authorization-services .read-case-btn a {
+        height: 56px;
+        font-size: 18px;
+        margin-top: 25px;
+    }
+    .authorization-services .read-case-btn img {
+        width: 26px;
+    }
+    .lp-faq-area .btn-type-title h2 {
+        font-size: 30px;
+    }
+    .lp-faq-area .accordion-header h6 {
+        font-size: 24px;
+        line-height: 32px;
+        padding: 24px 29px 16px 0px;
+    }
+    .lp-faq-area .accordion-header h6::after {
+        font-size: 24px;
+    }
+    .lp-faq-area .accordion-content p {
+        font-size: 18px;
+        line-height: 26px;
+    }
+    .lp-faq-are .accordion-content {
+        padding-bottom: 16px;
+    }
+}
+@media only screen and (max-width: 991px) {
+    .why-choose-wrap  {
+        flex-direction: column;
+    }
+    .choose-info-box {
+        padding-right: 0px;
+        width: 100%;
+    } 
+    .clients-testimonials-box {
+        margin-left: auto;
+        padding-top: 20px;
+    }
+    .services-work-wrap {
+        flex-direction: column-reverse;
+    }
+    .services-work-photo {
+        width: 100%;
+    }
+    .services-work-info {
+        width: 100%;
+        padding-top: 30px;
+        padding-right: 0px;
+    }
+    .lp-faq-area .btn-type-title h2 img {
+        width: 66px;
+    }
+    .scheduler-contact {
+        padding: 27px;
+    }
+    .scheduler-contact-item {
+        margin-bottom: 20px;
+    }
+    .scheduler-contact-item span {
+        line-height: 26px;
+    }
+    .lp-faq-area {
+        padding-bottom: 30px;
+    }
+
+   
+     
+}
+@media only screen and (max-width: 900px) {
+	.banner-contact-info p {
+    	font-size: 18px;
+		line-height: 28px;
+	}
+}
+@media only screen and (max-width: 767px) {
+    .reviews-title {
+        padding-top: 40px;
+        padding-bottom: 24px;
+        flex-direction: column;
+        text-align: center;
+    }
+    .banner-contact {
+        flex-direction: column;
+    }
+    .banner-photo {
+        width: 100%;
+    } 
+    .banner-contact-info {
+        width: 100%;
+        padding-top: 20px;
+        padding-left: 0px;
+    }  
+    .btn-type-title h2 {
+        font-size:18px;
+        line-height:1;
+    } 
+    .banner-contact-info p {
+        font-weight: 600;
+        line-height: 25px;
+        text-align: center;
+    }
+    .banner-contact-info h5 {
+        text-align: center;
+        font-size: 20px;
+        line-height: 30px;
+    }
+    .form-field-item {
+        width: 100%;
+    }
+    .client-boxwrap-top {
+        gap:10px;
+    }
+    .form-field-item .form-control {
+        font-size: 14px;
+        padding: 5px 12px;
+        height: 48px;
+    }
+    .form-field-item.text-area-field .form-control {
+        height: 100px;
+    }
+    .form-field-item img {
+        width: 20px;
+    }
+    .partner-wrap {
+        padding: 20px 40px;
+        gap: 30px;
+    }
+    .partner-wrap {
+        flex-wrap: wrap;
+        padding: 20px 25px;
+        gap: 40px;
+    }
+    .partner-logo {
+        width: 42%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        max-width: 130px;
+        margin: 0 auto;
+    }
+    .prior-banner-area {
+        padding-bottom: 40px;
+    }
+    .partner-logo:last-child {
+        width: 100%;
+    }
+    .choose-info-box h3 {
+        text-align: center;
+        font-size: 26px;
+        line-height: 36px;
+        padding-bottom: 22px;
+    }
+    .choose-list ul li {
+        font-size: 18px;
+        line-height: 28px;
+        margin-bottom: 3px;
+    }
+    .clients-testimonials-box {
+        width: 100%;
+        min-width: auto;
+    }
+    .view-all-btn a {
+        font-size: 14px;
+        height: 45px;
+    }
+    .client-name {
+        max-width: 175px;
+
+    }
+    .client-photo {
+        width:180px;
+        min-width:180px;
+    }
+    .endocrine-logo {
+        max-width: 90px;
+        top:-30px;
+    }
+    .form-field-item .talkBtn {
+        height:auto !important;
+        padding:16px 10px;
+        font-size: 16px !important;
+    }
+    .authorization-services .choose-info-box {
+        width: 100%;
+    }
+    .why-choose-wrap {
+        padding-bottom: 20px;
+    }
+    .clients-testimonials-box {
+        margin: 0;
+        padding-top: 40px;
+        max-width:350px;
+        margin: 0 auto;
+    }
+    .lp-client-text p {
+        font-size: 12px;
+        line-height: 15px;
+        font-weight: 600;
+    }
+    .lp-client-text {
+        border-radius: 12px;
+        padding: 5px 6px;
+    }
+    .client-name {
+        font-size: 12px;
+    }
+    .authorization-services .choose-list ul li {
+        margin-bottom: 8px;
+        line-height: 26px;
+    }
+    .authorization-services .choose-info-box h2 {
+        font-size: 24px;
+        line-height: 30px;
+        margin-bottom: 16px;
+    }
+    .services-work-area .btn-type-title h2 {
+        font-size: 16px;
+        line-height: 22px;
+        padding: 10px;
+    }
+    .services-work-info h5 {
+        font-size: 18px;
+        line-height: 26px;
+        padding-left: 0px;
+        margin-bottom: 6px;
+    }
+    .services-work-info .choose-list ul {
+        padding-left: 20px;
+    }
+    .services-work-info .choose-list ul li {
+        font-size: 16px;
+        line-height: 22px;
+        padding-left: 24px;
+    }
+    .dote-list ul li::before {
+        width: 5px;
+        height: 5px;
+        top: 9px;
+    }
+    .choose-list.dote-list {
+        padding-bottom: 18px;
+    }
+    .services-work-area .form-field-item .talkBtn {
+        font-size: 15px !important;
+    }
+    .lp-faq-area .btn-type-title h2 {
+        font-size: 22px;
+        gap:5px;
+        line-height: 32px;
+        padding:20px 10px;
+        border-radius: 12px;
+        flex-direction: column;
+
+    }
+    .lp-faq-area .btn-type-title h2 img {
+        width: 60px;
+    }
+    .lp-faq-area .accordion-item {
+        padding: 0px;
+    }
+    .lp-faq-area .accordion-header h6 {
+        font-size: 18px;
+        line-height: 24px;
+        padding: 12px 26px 10px 0px;
+    }
+    .lp-faq-area .accordion-header h6::after {
+        font-size: 15px;
+    }
+    .lp-faq-area .accordion-content p {
+        font-size: 16px;
+        line-height: 22px;
+        font-weight: 500;
+    }
+    .services-work-area {
+        padding-bottom: 40px;
+    }
+    .lp-scheduler-wrap {
+        flex-direction: column;
+    }
+    .scheduler-get-start {
+        min-width: 100%;
+        width: 100%;
+        padding: 30px 20px;
+    } 
+    .scheduler-contact {
+        width: 100%;
+        padding: 20px;
+    }
+    .rocket-icon {
+        max-width: 50px;
+    }
+    .scheduler-get-start h2 {
+        font-size: 20px;
+        line-height: 30px;
+    }
+    .s-contact-icon {
+        width: 50px;
+        min-width: 50px;
+        height: 50px;
+    }
+    .scheduler-contact-item {
+        gap:10px;
+    }
+    .scheduler-contact-item h3 {
+        font-size: 20px;
+        line-height: 30px;
+    }
+    .scheduler-contact-item  {
+        align-items: start !important;
+    }
+    .administrative-task h2 {
+        font-size: 20px;
+        line-height: 30px;
+    }
+    .administrative-task {
+        padding: 20px;
+        margin-top: 10px;
+    }
+	.page-template-landing .lp-banner-area {
+		padding-top: 100px;
+	}
+	.banner-contact-info p {
+    	font-size: 16px;
+		line-height: 26px;
+		padding-top: 5px;
+	}
+    .services-work-info .choose-list ul {
+        padding-left: 4px;
+    }
+    .dote-list ul li::before {
+        left: 6px;
+    }
+    .scheduler-contact-item span {
+        line-height: 22px;
+    }
+    .administrative-task .doc-icon {
+        width: 40px;
+        min-width: 40px;
+    }
+    .administrative-task h2 {
+        font-size: 18px;
+        line-height: 24px;
+    }
+    .administrative-task {
+        gap:10px;
+    }
+}
