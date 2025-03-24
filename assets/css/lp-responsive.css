@@ -1,34 +1,34 @@
-
 @media only screen and (max-width: 1780px) {
 	.page-template-landing .lp-banner-area {
 		padding-top: 140px;
 	}
 	.banner-contact-info p {
-    	font-size: 20px;
-    	line-height:28px;
+    	font-size: 24px;
+    	line-height:36px;
   	}
 }
 @media only screen and (max-width: 1780px) {
+    .lp-page-full .outsourcing-title,
     .lp-container  {
-        max-width: 1100px;
+        max-width: 1200px;
     }
     .reviews-title h1 {
-        font-size: 28px;
-        line-height: 38px;
+        font-size: 32px;
+        line-height: 42px;
     }
     .banner-contact-info strong {
-        font-size: 15px;
+        font-size: 17px;
         padding-top: 2px;
         padding-bottom: 7px;
     }
     .btn-type-title h2 {
-        font-size: 28px;
-        line-height:38px;
+        font-size: 32px;
+        line-height:44px;
         padding: 5px 10px;
     }
 	.lp-bg-yellow-text h3 {
-		font-size:24px;
-		line-height:34px;
+		font-size:28px;
+		line-height:40px;
 		padding-top:8px;
 		padding-bottom:8px;
 	}
@@ -58,7 +58,7 @@
     }
     .form-field-item .talkBtn {
         height: 75px !important;
-        font-size: 34px !important;
+        font-size: 40px !important;
     }
     .authorization-services .read-case-btn a {
         height: 70px;
@@ -76,8 +76,8 @@
     }
 
     .services-work-area .btn-type-title h2 {
-        font-size: 16px;
-        line-height: 30px;
+        font-size: 24px;
+        line-height: 34px;
     }
     .services-work-info h5 {
         font-size: 22px;
@@ -104,7 +104,7 @@
         font-size: 25px !important;
     }
     .choose-list ul li {
-        font-size: 22px;
+        font-size: 23px;
         line-height: 32px;
     }  
     .lp-faq-area .btn-type-title h2 {
@@ -116,20 +116,20 @@
         width: 90px;
     }
 
-    .scheduler-contact-item h3 {
+    /* .scheduler-contact-item h3 {
         font-size: 28px;
         line-height: 40px;
     }
     .scheduler-contact-item span {
         font-size: 16px;
         line-height: 24px;
-    }
+    } */
     .scheduler-get-start {
         padding:40px;
     }
     .scheduler-get-start h2 {
-        font-size: 34px;
-        line-height: 45px;
+        font-size: 45px;
+        line-height: 65px;
     }
     .s-contact-icon {
         width: 80px;
@@ -137,24 +137,25 @@
         height: 80px;
     }
     .administrative-task h2 {
-        font-size: 38px;
-        line-height: 38px;
+        font-size: 48px;
+        line-height: 58px;
     }
     .services-work-info {
         padding-right: 30px;
     }
     .lp-faq-area .accordion-header h6 {
-        font-size: 20px;
-        line-height: 32px;
+        font-size: 22px;
+        line-height: 34px;
     }
     .lp-faq-area .accordion-content p {
-        font-size: 16px;
+        font-size: 18px;
+        line-height: 26px;
     }
 }
 @media only screen and (max-width: 1500px) {
     .reviews-title h1 {
-        font-size: 23px;
-        line-height: 33px;
+        font-size: 32px;
+        line-height: 42px;
     }
     .reviews-title span {
         width: 50px;
@@ -163,24 +164,24 @@
         font-size: 24px;
     }  
     .btn-type-title h2 {
-        font-size: 20px;
-        line-height: 32px;
+        font-size: 28px;
+        line-height: 42px;
     }  
     .banner-contact-info p {
-        padding-top: 5px;
-        font-size: 18px;
-        line-height: 24px;
+        padding-top: 8px;
+        font-size: 24px;
+        line-height: 36px;
     }
     .banner-contact-info strong {
-        font-size: 13px;
+        font-size: 15px;
         padding-bottom: 4px;
     }
     .banner-contact-info {
         padding-left: 20px;
     }
     .lp-bg-yellow-text h3 {
-        font-size: 20px;
-        line-height: 30px;
+        font-size: 24px;
+        line-height: 37px;
     }
     .choose-info-box h3 {
         font-size: 25px;
@@ -196,16 +197,16 @@
         line-height: 20px;
     }
     .choose-list ul li {
-        font-size: 18px;
-        line-height: 22px;
+        font-size: 22px;
+        line-height: 32px;
     }
     .choose-list ul li::before {
         width: 20px;
         height: 19px;
-        top:1px
+        top:5px;
     }
     .form-field-item .talkBtn {
-        font-size: 26px !important;
+        font-size: 35px !important;
     }
     .authorization-services .choose-info-box h2 {
         font-size: 30px;
@@ -214,27 +215,37 @@
     .dote-list ul li::before {
         width: 6px;
         height: 6px;
-        top:1px;
+        top:9px;
     }
     .lp-faq-area .btn-type-title h2 {
-        font-size: 30px;
-        line-height: 40px;
+        font-size:40px;
+        line-height: 50px;
     }
     .administrative-task h2 {
-        font-size: 30px;
+        font-size: 44px;
+        line-height: 50px;
     }
     .administrative-task .doc-icon {
-        width: 60px;
-        min-width: 60px;
+        width: 70px;
+        min-width: 70px;
+    }
+    .lp-faq-area .accordion-header h6 {
+        font-size: 24px;
+    }
+    .services-work-info .choose-list ul li {
+        margin-bottom: 2px;
     }
 }
 
 @media only screen and (max-width:1300px){
 	.banner-contact-info p {
-		font-size: 22px;
-		line-height: 32px;
+		font-size: 20px;
+		line-height: 30px;
 		margin-bottom: 20px;
 	}
+    .lp-faq-area .accordion-header h6 {
+        font-size: 20px;
+    }
 }
 @media only screen and (max-width:1200px){
     .choose-list ul li {
@@ -418,7 +429,7 @@
 }
 @media only screen and (max-width: 767px) {
     .reviews-title {
-        padding-top: 40px;
+        padding-top: 20px;
         padding-bottom: 24px;
         flex-direction: column;
         text-align: center;
@@ -658,7 +669,7 @@
     }
     .administrative-task {
         padding: 20px;
-        margin-top: 10px;
+        margin-top: 0px;
     }
 	.page-template-landing .lp-banner-area {
 		padding-top: 100px;
@@ -687,5 +698,18 @@
     }
     .administrative-task {
         gap:10px;
+    }
+    .lp-page-full .sidebar-box {
+        display: block;
+    }
+    .lp-bg-yellow-text h3 {
+        font-size: 20px;
+        line-height: 28px;
+    }
+    .accordion-content {
+        padding-bottom: 0px;
+    }
+    .lp-scheduler-area {
+        padding-bottom: 40px;
     }
 }
