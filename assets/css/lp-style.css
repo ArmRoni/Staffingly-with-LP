@@ -601,13 +601,10 @@ a.scheduler-contact-item,
 	margin-bottom: 0;
 	line-height: 0;
 }
-.page-template-landing .lp-banner-area {
-	padding-top: 160px;
-}
 
 .Testimonials-review-photo img {
     width: 100%;
-    border-radius: 30px;
+    border-radius: 20px;
 
 }
 .Testimonials-review-photo {
@@ -641,4 +638,144 @@ a.scheduler-contact-item,
 .lp-page-full .outsourcing-title {
   max-width: 1265px;
   margin: 0 auto;
+}
+
+.services-work-area .choose-list ul li::before {
+  width: 20px;
+  height: 19px;
+}
+.services-work-area .dote-list ul li::before {
+   width: 8px;
+   height: 8px;
+}
+
+/* ======medical-assistant lp css start====== */
+
+.banner-btn-title {
+  display: flex;
+  background: var(--yellow);
+  border-radius: 8px;
+  text-align: center;
+  align-items: center;
+  padding:10px 20px;
+  gap:10px;
+}
+.banner-btn-title h2 {
+  font-size: 40px;
+  line-height: 48px;
+  font-weight: 900;
+  margin-bottom: 0px;
+}
+.btn-banner-icon {
+  width: 110px;
+  min-width: 110px;
+}
+.medical-assistant-lp .banner-contact-info p {
+    font-size: 29px;
+    line-height: 38px;
+    font-weight: 600;
+    padding-top: 24px;
+    margin-bottom: 6px;
+}
+.medical-assistant-lp .choose-list ul li::before {
+    content: "✔";
+    position: absolute;
+    background: none;
+    width: 20px;
+    height: 20px;
+    top: 0px;
+    left: 0px;
+}
+.medical-assistant-lp .choose-list ul li {
+  padding-left: 26px;
+  line-height: 33px;
+  margin-bottom: 2px;
+
+
+}
+.medical-assistant-lp .choose-info-box h3 {
+  font-size: 30px;
+}
+.medical-assistant-lp .why-choose-wrap {
+  width: 96%;
+  margin: 0 auto;
+}
+.medical-assistant-lp .client-name {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 24px;
+}
+.medical-assistant-lp .client-photo {
+  padding-top: 20px;
+}
+.medical-assistant-lp .administrative-task h2 {
+  text-align: center;
+}
+.lp-assistants-support h2 {
+  font-size: 40px;
+  line-height: 58px;
+  font-weight: 900;
+  text-align: center;
+  margin-bottom: 25px;
+}
+.lp-assistants-support {
+  padding-top: 30px;
+}
+.lp-assistants-support .services-work-photo {
+    width: 33%;
+}
+.lp-assistants-support .services-work-info {
+  width: 67%;
+}
+.assistants-support-list {
+    background: rgb(255, 239, 215);
+    display: flex;
+    border-radius: 12px;
+}
+
+.support-list-icon {
+    width: 65px;
+    background: rgb(189, 120, 0);
+    border-radius: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+.support-list-point {
+  padding: 15px;
+}
+.support-list-point h6 {
+  font-size: 24px;
+  font-weight: 900;
+  line-height: 33px;
+  margin-bottom: 10px
+}
+.support-list-point ul li {
+  font-size: 20px;
+  line-height: 31px;
+  font-weight: 400;
+  position: relative;
+}
+.support-list-point ul li::before{
+    content: "";
+    position: absolute;
+    width: 6px;
+    height: 6px;
+    background: #000;
+    border-radius: 100%;
+    top: 12px;
+    left: -16px;
+}
+.support-list-point ul {
+  padding-left: 50px;
+}
+.assistants-support-list {
+  margin-bottom: 20px;
+}
+.assistants-support-list:last-child {
+  margin-bottom: 0px
+}
+.lp-assistants-support .services-work-wrap {
+  padding-bottom: 0px;
 }
